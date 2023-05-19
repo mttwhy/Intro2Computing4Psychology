@@ -1,3 +1,4 @@
+This repository has been forked from Britt Anderson.
 #+Title: Introduction to Computing for Psychology Students
 #+Author: Britt Anderson
 
